@@ -154,7 +154,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 var DemoComponent = (function () {
     function DemoComponent() {
-        this.list = [{ 'name': 'Johny', 'gender': 'Male', 'src': './../assets/1.png' }, { 'name': 'Silviya', 'gender': 'Female', 'src': './../assets/2.png' }];
+        this.list = [{ 'name': 'Johny', 'gender': 'Male', 'src': './../assets/images/1.png' }, { 'name': 'Silviya', 'gender': 'Female', 'src': './../assets/images/2.png' }];
     }
     DemoComponent.prototype.ngOnInit = function () {
     };
