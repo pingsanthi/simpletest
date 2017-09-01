@@ -154,7 +154,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 var DemoComponent = (function () {
     function DemoComponent() {
-        this.list = [{ 'name': 'Johny', 'gender': 'Male', 'src': './../assets/images/1.png' }, { 'name': 'Silviya', 'gender': 'Female', 'src': './../assets/images/2.png' }];
+        this.list = [{ 'name': 'Johny', 'gender': 'Male', 'src': 'https://www.clker.com/cliparts/c/4/0/e/1197115544208915882acspike_male_user_icon.svg.med.png' }, { 'name': 'Silviya', 'gender': 'Female', 'src': 'https://www.clker.com/cliparts/b/1/f/a/1195445301811339265dagobert83_female_user_icon.svg.med.png' }];
     }
     DemoComponent.prototype.ngOnInit = function () {
     };
